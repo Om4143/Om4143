@@ -1,5 +1,5 @@
-![From particle collisions to business insights](banner.svg)
-  
+![From particle collisions to business insights](banner.svg?v=4)
+
 # Hi, I'm Omveer 👋
 
 **Data Analyst & Data Scientist · PhD Physicist · turning complex data into decision-ready insights**
