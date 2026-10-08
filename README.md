@@ -1,5 +1,4 @@
-  ![From particle collisions to business insights](banner.svg)
-
+![From particle collisions to business insights](banner.svg?v=2)
   
 # Hi, I'm Omveer 👋
 
