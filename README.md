@@ -1,8 +1,11 @@
+  ![From particle collisions to business insights](banner.svg)
+
+  
 # Hi, I'm Omveer 👋
 
 **Data Analyst & Data Scientist · PhD Physicist · turning complex data into decision-ready insights**
 
-📍 Darmstadt, Germany · 🟢 Open to Data Analyst & Data Scientist roles across Germany · Available immediately
+📍 Darmstadt, Germany
 
 ---
 
