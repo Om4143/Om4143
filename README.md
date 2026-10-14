@@ -43,18 +43,22 @@ Now I bring that same rigour to business questions. I'm completing the Data Scie
 #### 📊 Data Analytics
 
 **[A/B Test of Homepage Buttons](https://github.com/Om4143/eniac-ab-test-chi-square)** · Python · SciPy
+
 Compared four button designs across ~100,000 homepage visits with a chi-square test and Bonferroni-corrected comparisons.
 > **Result:** white buttons roughly doubled the click-through rate of red ones (2.0–2.1% vs. 0.8–1.1%).
 
 **[Discount Strategy Analysis](https://github.com/Om4143/eniac-discount-strategy)** · Python · Pandas
+
 Cleaned three raw sales tables (8,700+ duplicate rows, malformed prices) to test whether discounts pay off.
 > **Result:** sales stop rising above a 20% discount → recommended capping discounts and shifting them to high-end products.
 
 **[Market-Entry Analysis](https://github.com/Om4143/eniac-magist-analysis)** · MySQL · Tableau
+
 Queried a 9-table marketplace database to decide whether an online tech retailer should partner with a Brazilian platform.
 > **Result:** ~93% of orders arrive on time and tech makes up ~14% of revenue → recommended signing the deal.
 
 **[Smartwatch Activity Dashboard](https://github.com/Om4143/samsung-health-analysis)** · BigQuery · Tableau
+
 Cleaned 960 days of my own Samsung Health data and built an interactive dashboard.
 > **Result:** my 10,000-step goal rate rose from under 30% to 73% in 2026.
 
@@ -62,17 +66,20 @@ Cleaned 960 days of my own Samsung Health data and built an interactive dashboar
 #### 🤖 Machine Learning
  
 **[Playlist Clustering for a Music Startup](https://github.com/Om4143/moosic-playlist-clustering)** · Python · scikit-learn · Spotify API
+
 Grouped 5,000+ Spotify songs into 34 playlists (50–250 songs each) with PowerTransformer, PCA and K-Means, then posted them to Spotify.
 > **Result:** good first drafts in seconds, but an expert is still needed: the audio features capture a song's mood, not its genre.
 
 
 #### ⚙️ Data Engineering
 
-**Cloud ETL Pipeline** · Python · Cloud SQL · Cloud Run · Cloud Scheduler
+**[Cloud ETL Pipeline](https://github.com/Om4143/gans-data-pipeline)** · Python · Pandas · MySQL · Cloud SQL · Cloud Functions · Cloud Scheduler
+
 Automated pipeline that scrapes city data from Wikipedia, pulls weather and flight data from two APIs, and loads it into MySQL on Google Cloud on a schedule.
 > 📝 Read what broke and how I fixed it: [*Scraping, APIs and Cloud SQL: What My First Data Pipeline Taught Me*](https://medium.com/@o.singh.phy/scraping-apis-and-cloud-sql-what-my-first-data-pipeline-taught-me-568787d87cd4)
 
 **QA Data Framework** · Python · C++ · CI/CD
+
 Framework that automatically checks large scientific datasets for errors, with quality checks built into the CI pipeline.
 
 ---
