@@ -12,7 +12,7 @@
 
 For 8+ years I analysed large, complex datasets in particle physics, first in my PhD, then as a postdoc at Goethe University Frankfurt working with GSI/FAIR. My job was to separate real signals from noise and to make sure the data could be trusted before anyone drew conclusions from it.
 
-Now I bring that same rigour to business questions. I'm completing the Data Science Bootcamp at WBS CODING SCHOOL, where I turn raw data into clear recommendations with SQL, Python and Tableau.
+Now I bring that same rigour to business questions. I'm completing the Data Science Bootcamp at WBS CODING SCHOOL, where I turn raw data into clear recommendations with SQL, Python, Machine Learning and Tableau.
 
 - 🔬 **Analytical rigour** - statistics and machine learning to find what's real in noisy data
 - ✅ **Data quality** - I built an automated QA framework that caught data errors before analysis
@@ -57,6 +57,14 @@ Queried a 9-table marketplace database to decide whether an online tech retailer
 **[Smartwatch Activity Dashboard](https://github.com/Om4143/samsung-health-analysis)** · BigQuery · Tableau
 Cleaned 960 days of my own Samsung Health data and built an interactive dashboard.
 > **Result:** my 10,000-step goal rate rose from under 30% to 73% in 2026.
+
+
+#### 🤖 Machine Learning
+ 
+**[Playlist Clustering for a Music Startup](https://github.com/Om4143/moosic-playlist-clustering)** · Python · scikit-learn · Spotify API
+Grouped 5,000+ Spotify songs into 34 playlists (50–250 songs each) with PowerTransformer, PCA and K-Means, then posted them to Spotify.
+> **Result:** good first drafts in seconds, but an expert is still needed: the audio features capture a song's mood, not its genre.
+
 
 #### ⚙️ Data Engineering
 
